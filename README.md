@@ -12,4 +12,5 @@ Practicando Diccionarios Octubre 16 2024
 ![image](https://github.com/user-attachments/assets/dc97e9f7-f193-4ba2-862c-a02b1edb0b03)
 
 # EJECUTADO
+![image](https://github.com/user-attachments/assets/b16e2574-56a9-4494-a280-b6e1ab4062ef)
 
