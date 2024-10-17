@@ -1,5 +1,8 @@
 # Add your program code here.
-print("Welcome to Practicando Diccionarios Octubre 16 2024!")
+print("Welcome to Practicando Diccionarios Octubre 16 2024!") # Mensaje de bienvenida al usuario
+print(" ")
+print("REYES MEZA ALAN EDUARDO_1207 :   3W")  # INFO DE PRACTICA Y PROGRAMADOR 
+print(" ")  # ESPACIO
 
 #  Cambiar valoresPuede cambiar el valor de un elemento específico consultando su nombre clave:
 # Cambie el "año" a 2018:
